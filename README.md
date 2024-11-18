@@ -1,1 +1,3 @@
-# ProjetoRegress-oT3
+# ProjetoRegresso-T3
+Descrição do Projeto: Este projeto apresenta a construção de um modelo preditivo para estimar o engajamento dos seguidores dos influenciadores do Instagram, utilizando o conjunto de dados “Dados dos principais influenciadores do Instagram (limpos)”. O objetivo do estudo foi entender as relações entre as variáveis do dataset e a taxa de engajamento, além de identificar os fatores que influenciam essa métrica, fornecendo insights sobre o comportamento dos influenciadores e seu impacto nas audiências. A análise envolveu a exploração inicial dos dados, limpeza e transformação das variáveis, criação de novas variáveis e o desenvolvimento e validação de um modelo preditivo para a taxa de engajamento.
+autores:Alisson Ribeiro e Irlan Walase mattos
